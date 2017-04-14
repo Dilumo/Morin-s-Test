@@ -1,2 +1,2 @@
-# Morin's Test
-Jogo que participa da seria de jogos de uma folha, feitos para meu treinamento e intensivo ao retorno/entrada de pessoas que tem pouco tempo para jogos mais complexos.
+# Morin-s-Test
+Jogo de uma página feito para treinamento, onde você assume o papel de um jovem aprendiz elementalista em um grande teste final.
