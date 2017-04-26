@@ -27,10 +27,10 @@ Informações sobre o jogo são encontradas aqui, mas por se tratar de um projet
 
 <a name="highconcept"></a>
 ##  Highconcept
-  Um jogo de tabuleiro com um sistema de progreção randômica, onde você desafia um advesario para uma batalha de elementos.       
+  Um jogo de tabuleiro com um sistema de progressão randômica, onde você desafia um adversário para uma batalha de elementos.       
 <a name="enredo"></a>                      
 ## Enredo
-Você um aprendiz de elementarista que após passar por varios testes, se encontra no teste final, o Teste de Morin, uma batalha entre apredizes de varias crodas para provar seu valor. Agora cabe a você desafiar seu adiversario em um plano espectral, entre as corentes mais puras de poder elemental e provar ali seu valor.
+Você um aprendiz de elementarista que após passar por vários testes, se encontra no teste final, o Teste de Morin, uma batalha entre aprendizes de varias cordas para provar seu valor. Agora cabe a você desafiar seu adiversario em um plano espectral, entre as corentes mais puras de poder elemental e provar ali seu valor.
 
 <a name="gameplay"></a>
 ## Gameplay 
@@ -47,7 +47,7 @@ Com o auxilio de *dois dados* o jogador usa um para marcar seu personagem e outr
     - 6  escolhe entre cima e baixo
 - Ao passar sobre um poder você escolhe entre, Manter (até 2), Lançar e Defender.
 - Você começa com dez pontos de vida.
-- O jogo termina quando um dos dosi participantes chegar a zero de vida.
+- O jogo termina quando um dos dois participantes chegar a zero de vida.
 - Vence aquele que que tiver vida ao final da partida.
 - Ao chegar na linha do meio do tabuleiro, reinicia do ponto de início, com o adicional de +1 de poder, que vale para defesa e ataque. A terceira vez que passar pela linha do meio você começa com 2 cargas de um escudo que anula todos os danos. 
   
@@ -59,7 +59,7 @@ Com o auxilio de *dois dados* o jogador usa um para marcar seu personagem e outr
 - ![Fire](https://github.com//Dilumo/Morin-s-test/blob/master/Documents/Assets/Fire.png?raw=true "Fire") <br> 
 **Fire:** O elemento "Fogo" que é mais forte que a natureza e mais fraco que a água.
 - ![Nature](https://github.com//Dilumo/Morin-s-test/blob/master/Documents/Assets/Nature.png?raw=true "Nature") <br> 
-**Nature:** O elemento "Naturesa" que é mais forte que raio e mais fraco que fogo.
+**Nature:** O elemento "Natureza" que é mais forte que raio e mais fraco que fogo.
 - ![Electricity](https://github.com//Dilumo/Morin-s-test/blob/master/Documents/Assets/Electricity.png?raw=true "Electricity") <br> 
 **Electricity:** O elemento "Eletricidade" que é mais forte que água e mais fraco que naturesa.
 
@@ -86,8 +86,3 @@ Usei as dependências da minha casa para produzir esse jogo.
 - Inkscape
 - Visual Studio Code
 - GitHub
-
-
-
-[1]:https://www.coursera.org/learn/game-design/home/welcome
-[2]:https://www.calarts.edu
