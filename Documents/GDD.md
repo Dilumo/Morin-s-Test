@@ -4,7 +4,7 @@ Um simples jogo de tabuleiro, um grande desafio. Vença o ultimo teste e se torn
 
 # Introdução
 
-  Esse jogo pertence a uma seria de jogos de uma página, que tem como objetivo render mais conhecimento básico a mim e facilitar a entrada/volta de pessoas com menos tempo ou interesse para jogos mais complexos.
+  Esse jogo pertence a uma serie de jogos de uma página, que tem como objetivo render mais conhecimento básico a mim e facilitar a entrada/volta de pessoas com menos tempo ou interesse para jogos mais complexos.
 
 # Indice
 
@@ -30,12 +30,12 @@ Informações sobre o jogo são encontradas aqui, mas por se tratar de um projet
   Um jogo de tabuleiro com um sistema de progressão randômica, onde você desafia um adversário para uma batalha de elementos.       
 <a name="enredo"></a>                      
 ## Enredo
-Você um aprendiz de elementarista que após passar por vários testes, se encontra no teste final, o Teste de Morin, uma batalha entre aprendizes de varias cordas para provar seu valor. Agora cabe a você desafiar seu adiversario em um plano espectral, entre as corentes mais puras de poder elemental e provar ali seu valor.
+Você um aprendiz de elementarista que após passar por vários testes, se encontra no teste final, o Teste de Morin, uma batalha entre aprendizes de varias cordas para provar seu valor. Agora cabe a você desafiar seu adversario em um plano espectral, entre as correntes mais puras de poder elemental e provar ali seu valor.
 
 <a name="gameplay"></a>
 ## Gameplay 
 
-Com o auxilio de *dois dados* o jogador usa um para marcar seu personagem e outro para definir seus movimentos no tabuleiro.
+Com o auxílio de *dois dados* o jogador usa um para marcar seu personagem e outro para definir seus movimentos no tabuleiro.
 
 <a name="regras"></a>
 ##  Regras: 
@@ -48,7 +48,7 @@ Com o auxilio de *dois dados* o jogador usa um para marcar seu personagem e outr
 - Ao passar sobre um poder você escolhe entre, Manter (até 2), Lançar e Defender.
 - Você começa com dez pontos de vida.
 - O jogo termina quando um dos dois participantes chegar a zero de vida.
-- Vence aquele que que tiver vida ao final da partida.
+- Vence aquele que tiver vida ao final da partida.
 - Ao chegar na linha do meio do tabuleiro, reinicia do ponto de início, com o adicional de +1 de poder, que vale para defesa e ataque. A terceira vez que passar pela linha do meio você começa com 2 cargas de um escudo que anula todos os danos. 
   
 <a name="elementos"></a>
@@ -59,9 +59,9 @@ Com o auxilio de *dois dados* o jogador usa um para marcar seu personagem e outr
 - ![Fire](https://github.com//Dilumo/Morin-s-test/blob/master/Documents/Assets/Fire.png?raw=true "Fire") <br> 
 **Fire:** O elemento "Fogo" que é mais forte que a natureza e mais fraco que a água.
 - ![Nature](https://github.com//Dilumo/Morin-s-test/blob/master/Documents/Assets/Nature.png?raw=true "Nature") <br> 
-**Nature:** O elemento "Natureza" que é mais forte que raio e mais fraco que fogo.
+**Nature:** O elemento "Natureza" que é mais forte que eletricidade e mais fraco que fogo.
 - ![Electricity](https://github.com//Dilumo/Morin-s-test/blob/master/Documents/Assets/Electricity.png?raw=true "Electricity") <br> 
-**Electricity:** O elemento "Eletricidade" que é mais forte que água e mais fraco que naturesa.
+**Electricity:** O elemento "Eletricidade" que é mais forte que água e mais fraco que natureza.
 
 <a name="efeitos"></a>
 ## Efeitos:
@@ -78,7 +78,7 @@ Com o auxilio de *dois dados* o jogador usa um para marcar seu personagem e outr
 
 <a name="ideias"></a>
 # Ideias
-Entre as ideias para uma extensão do jogo, temos a ideia de colocar cartas de ação, que seriam compradas com o valor de dois elementos mantidos, onde para serem postas em jogo, o jogador deveria manter elementos e expecifico. 
+Entre as ideias para uma extensão do jogo, temos a ideia de colocar cartas de ação, que serião compradas com o valor de dois elementos mantidos, onde para serem postas em jogo, o jogador deveria manter elementos em expecifico. 
 
 <a name="meios"></a>
 # Meios
